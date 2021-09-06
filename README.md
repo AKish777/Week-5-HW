@@ -32,4 +32,10 @@ THEN the saved events persist
 
 Deployable Link: https://akish777.github.io/Week-5-HW/
 
+## License - MIT
+
+(Check LICENSE file)
+
+
+
 
